@@ -135,6 +135,15 @@ header .logo {
   margin: auto;
 }
 
+header .title {
+  position: absolute;
+  top: 30px;
+  bottom: 0;
+  left: 120px;
+  margin: auto;
+  font-size: 45px;
+}
+
 header .sub-menu {
   position: absolute;
   top: 10px;
@@ -588,7 +597,7 @@ header .badges .badge {
 }
 
 .rewards .inner {
-  background-image: url("../images/rewards.jpg");
+  background-image: url("../images/ph_rewards.png");
   height: 241px;
 }
 
@@ -708,7 +717,7 @@ header .badges .badge {
 
 /* RESERVE COFFEE */
 .reserve-coffee {
-  background-image: url("../images/reserve_bg.jpg");
+  background-image: url("../images/ph_reserve_bg.png");
 }
 
 .reserve-coffee .inner {
@@ -737,7 +746,7 @@ header .badges .badge {
 
 /* PICK YOUR FAVORITE */
 .pick-your-favorite {
-  background-image: url(../images/favorite_bg.jpg);
+  background-image: url(../images/ph_favorite_bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -767,7 +776,7 @@ header .badges .badge {
 
 /* RESERVE STORE */
 .reserve-store {
-  background-image: url("../images/reserve_store_bg.jpg");
+  background-image: url("../images/ph_reserve_store_bg.png");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -815,7 +824,7 @@ header .badges .badge {
 
 /* FIND STORE */
 .find-store {
-  background-image: url("../images/find_store_bg.jpg");
+  background-color: #c8c8c8;
 }
 .find-store .inner {
   height: 400px;
