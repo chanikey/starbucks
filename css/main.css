@@ -114,7 +114,8 @@ a {
 /* HEADER */
 header {
   width: 100%;
-  background-color: #f6f5f0;
+  /* background-color: #f6f5f0; */ 
+  background-color: #F5F5F5;
   border-bottom: 1px solid #c8c8c8;
   position: fixed;
   top: 0;
